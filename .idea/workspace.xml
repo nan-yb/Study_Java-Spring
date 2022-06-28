@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecdc62a6-1368-47fb-9366-75bf6b9e7921" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/july/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/JulyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/controller/DMakerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/entity/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/repository/DeveloperRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/service/DmakerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/type/DeveloperLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/java/com/example/spring/july/type/DeveloperSkillType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/july/src/test/java/com/example/spring/july/JulyApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BBkEiqatAdiDSC3TUaDfoHqbJs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fastcampus.javaoop.Main" />
+      <module name="fastcampus-java-oop.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fastcampus.javaoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecdc62a6-1368-47fb-9366-75bf6b9e7921" name="Changes" comment="" />
+      <created>1656386756172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656386756172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
