@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.fastcampus.javaoop.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-28T11:57:25" hostname="ybui-MacBookPro.local" time="0.036">
-  <properties/>
-  <testcase name="main()" classname="com.fastcampus.javaoop.MainTest" time="0.036"/>
-  <system-out><![CDATA[[result] [1, 2, 3]
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
